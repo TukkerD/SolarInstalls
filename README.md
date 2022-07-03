@@ -1,1 +1,1 @@
-# SolarInstalls
+# Solar Installs
